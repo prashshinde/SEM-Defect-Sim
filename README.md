@@ -63,6 +63,5 @@ If you use this SEMDefectSim dataset in your research, please cite this reposito
      year      = {2026},\
      publisher = {GitHub},\
      date-released = {2026-09-23},\
-     zenodo = {10.5281/zenodo.22913378},\
      url       = {https://github.com/prashshinde/SEM-Defect-Sim}\
 }
