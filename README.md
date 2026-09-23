@@ -31,7 +31,7 @@ Bounding boxes identify the locations of missing-hole defects and serve as groun
 
 Defects are annotated using bounding boxes in the following format:
 
-**lattice_type xmin, ymin, xmax, ymax**
+**label xmin, ymin, xmax, ymax**
 
 These annotations identify the location of each missing-hole defect.
 
