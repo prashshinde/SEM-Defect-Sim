@@ -17,9 +17,9 @@ The dark circular regions represent contact/via holes in a semiconductor lithogr
 
 Bounding boxes identify the locations of missing-hole defects and serve as ground-truth annotations for defect detection and localization.
 
-<img width="512" height="512" alt="00001" src="https://github.com/user-attachments/assets/7faf742f-d7c2-4217-bb02-6e0369f7e32b" />
+<img width="256" height="256" alt="00001" src="https://github.com/user-attachments/assets/7faf742f-d7c2-4217-bb02-6e0369f7e32b" />
 <img width="512" height="512" alt="00002" src="https://github.com/user-attachments/assets/2ee7fa9f-2a1d-494b-9740-08ed9ff400f7" />
-<img width="640" height="640" alt="00027" src="https://github.com/user-attachments/assets/639c1f5a-cdd6-4182-b366-70e1a5aaae05" />
+<img width="320" height="320" alt="00027" src="https://github.com/user-attachments/assets/639c1f5a-cdd6-4182-b366-70e1a5aaae05" />
 
 
 
