@@ -62,7 +62,7 @@ This repository provides the generated SEM images and associated annotations for
 
 If you use this SEMDefectSim dataset in your research, please cite this repository:
 
-@dataset{semdefectsim,\\
+@dataset{semdefectsim,\
      title     = {SEMDefectSim: Physics-Inspired Synthetic SEM Defect Dataset},\
      author    = {Prashant P. Shinde},\
      year      = {2026},\
