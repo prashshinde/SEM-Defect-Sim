@@ -3,6 +3,10 @@
 
 The dataset contains SEM-like images of contact-hole arrays generated using mathematical models. ***Contact holes*** are arranged ***on either square or hexagonal lattices***, with **missing-hole defects** introduced at randomly selected lattice positions.
 
+<img width="320" height="320" alt="00001" src="https://github.com/user-attachments/assets/7faf742f-d7c2-4217-bb02-6e0369f7e32b" />
+<img width="320" height="320" alt="00002" src="https://github.com/user-attachments/assets/2ee7fa9f-2a1d-494b-9740-08ed9ff400f7" />
+<img width="320" height="320" alt="00027" src="https://github.com/user-attachments/assets/639c1f5a-cdd6-4182-b366-70e1a5aaae05" />
+
 ### Synthetic Data Generation
 
 Each image is generated from a regular lattice representing the designed target positions of a contact-hole array. The lattice itself is not explicitly drawn but can be inferred from the regular spacing of the holes.
@@ -16,10 +20,6 @@ The released dataset contains one defect class:
 The dark circular regions represent contact/via holes in a semiconductor lithography layout. The underlying square or hexagonal lattice represents the intended positions at which these holes are patterned during fabrication.
 
 Bounding boxes identify the locations of missing-hole defects and serve as ground-truth annotations for defect detection and localization.
-
-<img width="320" height="320" alt="00001" src="https://github.com/user-attachments/assets/7faf742f-d7c2-4217-bb02-6e0369f7e32b" />
-<img width="320" height="320" alt="00002" src="https://github.com/user-attachments/assets/2ee7fa9f-2a1d-494b-9740-08ed9ff400f7" />
-<img width="320" height="320" alt="00027" src="https://github.com/user-attachments/assets/639c1f5a-cdd6-4182-b366-70e1a5aaae05" />
 
 ### Dataset Statistics
 
